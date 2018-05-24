@@ -1,3 +1,4 @@
+package br.com.igti;
 
 public class ClassePrincipal {
 
